@@ -2,7 +2,7 @@
   
 <h2>This project uses :
 
-<h3>Python 🐍, Pandas, and NumPy to perform a Technical and Risk Analysis of major tech stocks.
+<h3>Python , Pandas, and NumPy to perform a Technical and Risk Analysis of major tech stocks.
 
 The goal is to apply quantitative techniques to historical price data for actionable insights into 
 
