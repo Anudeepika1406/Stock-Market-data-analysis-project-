@@ -27,16 +27,6 @@ Relationship Analysis: Determining Correlation between returns for portfolio div
 
 Visualizations: Generated charts include SMA Trend Lines, Volatility Comparison, and a Correlation Heatmap for clear risk assessment.
 
-Getting Started
-Clone the repository.
-
-Ensure you have the required libraries installed (pandas, matplotlib, seaborn).
-
-Run the main Python script.
-
-
-Sources
-
 
 ![Image Alt](https://github.com/Anudeepika1406/Stock-Market-data-analysis-project-/blob/2fd1c0880d5a8872db7cd142770a6b6539faeb24/WhatsApp%20Image%202025-10-03%20at%2021.17.17_f8357afc.jpg)
 
